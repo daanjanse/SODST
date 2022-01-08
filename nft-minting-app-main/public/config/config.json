@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa584F8234a344eB96F777f63c4d8255f3Bd99C41",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa584f8234a344eb96f777f63c4d8255f3bd99c41",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SODS Test",
+  "SYMBOL": "SODS",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sods-final",
+  "SHOW_BACKGROUND": true
+}
